@@ -55,6 +55,11 @@ a {
     text-decoration: none;
 }
 
+.fa-brands {
+	font-weight: normal;
+	font-style: normal;
+}
+
 h1, h2 { margin: 0; }
 
 h1 {
