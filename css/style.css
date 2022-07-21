@@ -53,6 +53,7 @@ section { overflow: hidden; }
 -------------------------------------------------------------- */
 a {
     text-decoration: none;
+	color: #7463E4;
 }
 
 .fa-brands {
